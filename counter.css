@@ -1,0 +1,36 @@
+body{
+	background-image: url(sea.jpeg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: sans-serif;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+
+
+h1{
+	margin-top: 10px;
+	margin-bottom: 10px;
+     font-size: 200px;
+}
+
+span{
+	font-size: 200px;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+
+button{
+	font-size: 50px;
+	 margin: auto;
+	font-family: sans-serif;
+	font-weight: bold;
+	border: medium;
+	color: none;
+	width: 400px;
+    opacity:1;
+    
+
+}
